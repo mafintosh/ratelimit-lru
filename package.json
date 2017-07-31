@@ -1,0 +1,26 @@
+{
+  "name": "ratelimit-lru",
+  "version": "0.0.0",
+  "description": "Small module for doing generic rate limiting using an LRU cache",
+  "main": "index.js",
+  "dependencies": {
+    "lru": "^3.1.0",
+    "speedometer": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/ratelimit-lru.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/ratelimit-lru/issues"
+  },
+  "homepage": "https://github.com/mafintosh/ratelimit-lru"
+}
