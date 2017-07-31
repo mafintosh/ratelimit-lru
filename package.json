@@ -1,6 +1,6 @@
 {
   "name": "ratelimit-lru",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Small module for doing generic rate limiting using an LRU cache",
   "main": "index.js",
   "dependencies": {
